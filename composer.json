@@ -1,0 +1,25 @@
+{
+  "name": "jinnguyen/puja-filesystem",
+  "description": "Puja-FileSystem provides basic functions for handle File/Folder ",
+  "type": "library",
+  "license": "Apache License 2.0",
+  "keywords": [
+    "Puja",
+    "File System",
+    "FileSystem"
+  ],
+  "authors": [
+    {
+      "name": "Jin Nguyen",
+      "email": "w2ajax@gmail.com"
+    }
+  ],
+  "minimum-stability": "stable",
+  "require": {
+  },
+  "autoload": {
+    "psr-4": {
+      "Puja\\FileSystem\\": "src/"
+    }
+  }
+}
